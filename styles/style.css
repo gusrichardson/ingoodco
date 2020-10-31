@@ -6328,11 +6328,7 @@ header {
 
 .hero {
   height: 50vh;
-  background-image: url("../../images/shaved-head.jpeg");
-  background-image: url("../../images/plants-salon.jpeg");
-  background-image: url("../../images/ginger.jpeg");
-  background-image: url("../../images/hair-sea.jpeg");
-  background-image: url("../../images/laughing.jpeg");
+  background-image: url("../images/laughing.jpeg");
   background-position: 0% 60%;
   background-size: cover;
   padding: 10px 0px;
@@ -6383,7 +6379,7 @@ footer .wrapper {
 
 .about-hero {
   height: 30vh;
-  background-image: url("../../images/ginger.jpeg");
+  background-image: url("../images/ginger.jpeg");
   background-size: cover;
   background-position: 0% 40%;
 }
@@ -6700,7 +6696,7 @@ footer .wrapper {
 
 .services-hero {
   height: 30vh;
-  background-image: url("../../images/pink-background.jpeg");
+  background-image: url("../images/pink-background.jpeg");
   background-size: cover;
   background-position: 0% 50%;
 }
